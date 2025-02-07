@@ -313,20 +313,6 @@
         <mxCell id="Gr0Zq-AI6Quabplr0KPa-248" style="edgeStyle=none;jumpStyle=arc;html=1;entryX=0.5;entryY=1;entryPerimeter=0;endArrow=classicThin;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=none;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=12;rounded=0;startSize=8;endSize=8;curved=1;" parent="Gr0Zq-AI6Quabplr0KPa-179" source="Gr0Zq-AI6Quabplr0KPa-238" target="Gr0Zq-AI6Quabplr0KPa-247" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ygk3dJTKTH8TAHHT26tp-5" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#660000;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" target="ygk3dJTKTH8TAHHT26tp-7" source="Gr0Zq-AI6Quabplr0KPa-184" parent="Gr0Zq-AI6Quabplr0KPa-179">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="555" y="238" as="sourcePoint" />
-            <mxPoint x="340" y="194" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ygk3dJTKTH8TAHHT26tp-6" value="人体脏腑经络之气血输注体表" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=-30;" vertex="1" parent="ygk3dJTKTH8TAHHT26tp-5">
-          <mxGeometry x="0.2571" relative="1" as="geometry">
-            <mxPoint x="3" y="-14" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ygk3dJTKTH8TAHHT26tp-7" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;collapsible=0;" vertex="1" collapsed="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
-          <mxGeometry x="607" y="108" width="5" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
