@@ -47,7 +47,7 @@
             <mxPoint x="251" y="104" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gr0Zq-AI6Quabplr0KPa-189" value="经穴、奇穴" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" parent="Gr0Zq-AI6Quabplr0KPa-188" vertex="1" connectable="0">
+        <mxCell id="Gr0Zq-AI6Quabplr0KPa-189" value="经穴、奇穴" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=-5;" parent="Gr0Zq-AI6Quabplr0KPa-188" vertex="1" connectable="0">
           <mxGeometry x="-0.1124" y="-1" relative="1" as="geometry">
             <mxPoint x="24" y="-12" as="offset" />
           </mxGeometry>
@@ -311,11 +311,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="555" y="238" as="sourcePoint" />
             <mxPoint x="335" y="184" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ygk3dJTKTH8TAHHT26tp-12" value="经穴、奇穴" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" vertex="1" connectable="0" parent="ygk3dJTKTH8TAHHT26tp-11">
-          <mxGeometry x="-0.1124" y="-1" relative="1" as="geometry">
-            <mxPoint x="24" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ygk3dJTKTH8TAHHT26tp-13" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;collapsible=0;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
