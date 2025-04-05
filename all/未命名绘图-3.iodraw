@@ -285,7 +285,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ocQGd7Rk_rW0AycDzvWG-454" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="98" y="617" width="2151" height="3996" as="geometry" />
+          <mxGeometry x="442" y="825" width="2151" height="3996" as="geometry" />
         </mxCell>
         <mxCell id="ocQGd7Rk_rW0AycDzvWG-303" value="妊娠疾病" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;strokeColor=default;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="ocQGd7Rk_rW0AycDzvWG-454">
           <mxGeometry y="1980.6260869565217" width="319.32897862232784" height="52.12173913043478" as="geometry" />
