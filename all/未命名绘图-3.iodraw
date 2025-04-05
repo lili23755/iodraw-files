@@ -284,45 +284,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ocQGd7Rk_rW0AycDzvWG-152" value="妊娠疾病" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5909" y="671" width="125" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="ocQGd7Rk_rW0AycDzvWG-175" value="治法：益气养血、固冲安胎&#xa;方药：泰山磐石散" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2700" y="975" width="253" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="ocQGd7Rk_rW0AycDzvWG-177" value="治法：行气活血、消癥散结&#xa;方药：桂枝茯苓丸" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3003" y="975" width="252" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="ocQGd7Rk_rW0AycDzvWG-179" value="胎元阻络证：宫外孕Ⅰ号方&#xa;胎瘀阻络证：宫外孕Ⅱ号方" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3305" y="975" width="253" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="ocQGd7Rk_rW0AycDzvWG-181" value="气血亏损证：生脉散&#xa;气虚血瘀证：宫外孕Ⅰ号方&#xa;瘀结成癥证：宫外孕Ⅱ号方" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3608" y="966" width="253" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="ocQGd7Rk_rW0AycDzvWG-183" value="治法：健脾利湿、行水消肿&#xa;方药：白术散" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3911" y="975" width="252" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="ocQGd7Rk_rW0AycDzvWG-185" value="治法：补肾温阳、化气行水&#xa;方药：济生肾气丸" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4213" y="975" width="253" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="ocQGd7Rk_rW0AycDzvWG-187" value="治法：理气行滞、化湿消肿&#xa;方药：正气天香散" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4516" y="975" width="252" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="ocQGd7Rk_rW0AycDzvWG-189" value="治法：平肝息风、止痉&#xa;方药：羚角钩藤汤" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4818" y="975" width="221" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="ocQGd7Rk_rW0AycDzvWG-191" value="治法：清热息风、豁痰开窍&#xa;方药：牛黄清心丸" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5088" y="975" width="252" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="ocQGd7Rk_rW0AycDzvWG-193" value="治法：补肾健脾、益气安胎&#xa;方药：寿胎丸" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5390" y="975" width="253" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="ocQGd7Rk_rW0AycDzvWG-195" value="治法：补气养血、固肾安胎&#xa;方药：胎元饮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5693" y="975" width="253" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="ocQGd7Rk_rW0AycDzvWG-197" value="治法：滋阴清热、养血安胎&#xa;方药：保阴煎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5996" y="975" width="253" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="ocQGd7Rk_rW0AycDzvWG-199" value="治法：化瘀养血、固肾安胎&#xa;方药：寿胎丸/圣愈汤" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="6299" y="975" width="253" height="66" as="geometry" />
         </mxCell>
