@@ -966,7 +966,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ocQGd7Rk_rW0AycDzvWG-456" value="姓名：李宇娟&lt;div&gt;学号：2021051143&lt;/div&gt;&lt;div&gt;班级：针灸推拿学3班&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EEEEEE;" vertex="1" parent="1">
+        <mxCell id="ocQGd7Rk_rW0AycDzvWG-456" value="&lt;font color=&quot;#050505&quot;&gt;姓名：李宇娟&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#050505&quot;&gt;学号：2021051143&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#050505&quot;&gt;班级：针灸推拿学3班&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EEEEEE;" vertex="1" parent="1">
           <mxGeometry x="44" y="34" width="300" height="138" as="geometry" />
         </mxCell>
       </root>
